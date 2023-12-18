@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-- 🔭 I'm now in my junior (3rd year) year of college.
+- 🔭 I'm now in my fourth (4rd year) year of college.
 - 🌱 I’m currently learning.
-- 😄 Pronouns: zhiyuan|oddfar
+- 😄 Pronouns: 致远|oddfar
 - ⚡ Fun fact: I found that I do not know anything. 😣
 
 

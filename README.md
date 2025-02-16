@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-- 🔭 I'm now in my fourth (4rd year) year of college.
+- 🔭 Graduated in 2024 and works at a certain e-commerce SaaS ERP company.
 - 🌱 I’m currently learning.
-- 😄 Pronouns: 致远|oddfar
+- 😄 Pronouns: 致远
 - ⚡ Fun fact: I found that I do not know anything. 😣
+- 💬 
 
 
 ![private github information](https://github-readme-stats.vercel.app/api?username=oddfar&show_icons=true&theme=Gradient)

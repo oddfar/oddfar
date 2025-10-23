@@ -24,4 +24,3 @@ Here are some ideas to get you started:
 
 ![private github information](https://github-readme-stats.vercel.app/api?username=oddfar&show_icons=true&theme=Gradient)
 
-![private language](https://github-readme-stats.vercel.app/api/top-langs/?username=oddfar&layout=compact&langs_count=8&hide_border=true)
